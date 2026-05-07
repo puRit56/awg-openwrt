@@ -1,4 +1,4 @@
-![Downloads](https://img.shields.io/github/downloads/Slava-Shchipunov/awg-openwrt/total)
+![Downloads](https://img.shields.io/github/downloads/Slava-Shchipunov/awg-openwrt/total.svg)
 
 # Пакеты amneziawg для роутеров с прошивкой OpenWRT
 
